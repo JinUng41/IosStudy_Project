@@ -9,8 +9,9 @@
 - UI 컴포넌트
 - 오토 레이아웃
 
-<h3>SymbolRoller</h3>
+<h3><a href="https://github.com/JinUng41/IosStudy/issues/8">SymbolRoller</a></h3>
 
 <img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part3/SybolRollerResult.gif" height="400">
 
 <hr>
+
