@@ -1,7 +1,5 @@
 # IosStudy_Project
 
-<br>
-
 <h2>Part 3</h2>
 
 <hr>
@@ -15,5 +13,5 @@
 
 <h3>SymbolRoller</h3>
 
-- 
+
 
