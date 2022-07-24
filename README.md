@@ -11,6 +11,6 @@
 
 <h3>SymbolRoller</h3>
 
-<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part3/SybolRollerResult.gif" height="300">
+<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part3/SybolRollerResult.gif" height="400">
 
 <hr>
