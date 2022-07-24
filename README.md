@@ -2,8 +2,6 @@
 
 <h2>Part 3</h2>
 
-<hr>
-
 <h3>HelloiOS</h3>
 
 - UI 컴포넌트
