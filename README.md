@@ -1,7 +1,5 @@
 # IosStudy_Project
 
-<hr>
-
 <h2>Part 3</h2>
 
 <h3>HelloiOS</h3>
