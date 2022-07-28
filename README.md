@@ -13,17 +13,17 @@
 
 <h3><a href="https://github.com/JinUng41/IosStudy/issues/8">SymbolRoller</a></h3>
 
-<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part3/SybolRollerResult.gif" height="400">
+<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part3/2.%20UIKit/SybolRollerResult.gif" height="400">
 
 <h3><a href="https://github.com/JinUng41/IosStudy/issues/9">SimpleWeather</a></h3>
 
-<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part3/SimpleWeatherResult.gif" height="400">
+<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part3/2.%20UIKit/SimpleWeatherResult.gif" height="400">
 
 <h2>3. List and Grid</h2>
 
 <h3><a href="https://github.com/JinUng41/IosStudy/issues/11">StockRank</a></h3>
 
-<img src="">
+<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part3/3.%20List%20and%20Grid/StockRankResult.gif" height="400">
 
 <hr>
 
