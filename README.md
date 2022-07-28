@@ -11,5 +11,8 @@
 
 <img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part3/SybolRollerResult.gif" height="400">
 
-<hr>
+<h3><a href="https://github.com/JinUng41/IosStudy/issues/9">SimpleWeather</a></h3>
 
+<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part3/SimpleWeatherResult.gif" height="400">
+
+<hr>
