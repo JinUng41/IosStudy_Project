@@ -38,5 +38,7 @@
 
 <img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part3/3.%20List%20and%20Grid/AppleFrameworkResult.gif" height="400">
 
-<hr>
+<br>
+
+<h2>4. Tab Bar</h2>
 
