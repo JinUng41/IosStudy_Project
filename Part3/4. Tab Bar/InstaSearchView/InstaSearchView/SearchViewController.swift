@@ -25,7 +25,7 @@ class SearchViewController: UIViewController {
         }
         
         self.navigationItem.title = "Search" // 네비게이션 바의 title
-        let searchController = UISearchController(searchResultsController: nil) // UISearchController - 검색할 수 있게 해주는 searchview를 만들어 준다.
+        let searchController = UISearchController(searchResultsController: nil) // UISearchController - 검색하는 searchview를 만들어 준다.
         searchController.hidesNavigationBarDuringPresentation = false // 검색하는 동안 네비게이션에 가리지 않도록
         searchController.searchBar.placeholder = "Search" 
         searchController.searchResultsUpdater = self // 현재 collectionView를 의미
