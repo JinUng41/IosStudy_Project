@@ -45,3 +45,8 @@
 <h3><a href="https://github.com/JinUng41/IosStudy/issues/15">InstaSearchView</a></h3>
 
 <img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part3/4.%20Tab%20Bar/InstaSearchViewResult.gif" height="400">
+
+<br>
+
+<h2>5. Paging View</h2>
+
