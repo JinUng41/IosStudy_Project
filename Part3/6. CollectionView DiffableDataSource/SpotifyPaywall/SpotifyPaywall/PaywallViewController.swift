@@ -69,13 +69,10 @@ class PaywallViewController: UIViewController {
         
         
         section.visibleItemsInvalidationHandler = { (item, offset, env) in
-            print(">>> item : \(item), offset : \(offset), env : \(env)\n")
             
             // offset의 x 값을 현재 container의 너비로 나눈다.
             //.rounded(.up) 반올림
             let index = Int((offset.x / env.container.contentSize.width).rounded(.up))
-            print(">>> \(index)")
-            
             self.pageControl.currentPage = index
             
         }

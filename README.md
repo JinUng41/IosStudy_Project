@@ -64,3 +64,10 @@
 
 <img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part3/6.%20CollectionView%20DiffableDataSource/HeadSpaceFocusResult.gif" height= "400">
 
+<h3><a href="https://github.com/JinUng41/IosStudy/issues/20">SpotifyPaywall</a></h3>
+
+<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part3/6.%20CollectionView%20DiffableDataSource/SpotifyPaywall.gif" height="400">
+
+<br>
+
+<h2>7. Navigation and Modal</h2>
