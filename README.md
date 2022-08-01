@@ -50,3 +50,6 @@
 
 <h2>5. Paging View</h2>
 
+<h3><a href="https://github.com/JinUng41/IosStudy/issues/16">NRCOnboarding</a></h3>
+
+<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part3/5.%20Paging/NRCOnboardingResult.gif" height="400">
