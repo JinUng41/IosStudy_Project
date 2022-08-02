@@ -71,3 +71,7 @@
 <br>
 
 <h2>7. Navigation and Modal</h2>
+
+<h3><a href="https://github.com/JinUng41/IosStudy/issues/22">AppleFramework_Modal</a></h3>
+
+<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part3/7.%20Navigation%20and%20Modal/AppleFramework(modal)Result.gif" height="400">
