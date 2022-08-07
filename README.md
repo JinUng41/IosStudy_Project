@@ -60,6 +60,8 @@
 
 <h3><a href="https://github.com/JinUng41/IosStudy/issues/18">AppleFramework_DiffableDatasource</a></h3>
 
+<br>
+
 <h3><a href="https://github.com/JinUng41/IosStudy/issues/19">HeadSpaceFocus</a></h3>
 
 <img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part 3/6.%20CollectionView%20DiffableDataSource/HeadSpaceFocusResult.gif" height= "400">
@@ -85,6 +87,8 @@
 <h1>Part 4</h1>
 
 <h3><a href="https://github.com/JinUng41/IosStudy/issues/33">AppleFramework_Combine</a></h3>
+
+<br>
 
 <hr>
 
