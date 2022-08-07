@@ -16,11 +16,11 @@
 
 <h3><a href="https://github.com/JinUng41/IosStudy/issues/8">SymbolRoller</a></h3>
 
-<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part3/2.%20UIKit/SybolRollerResult.gif" height="400">
+<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part 3/2.%20UIKit/SybolRollerResult.gif" height="400">
 
 <h3><a href="https://github.com/JinUng41/IosStudy/issues/9">SimpleWeather</a></h3>
 
-<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part3/2.%20UIKit/SimpleWeatherResult.gif" height="400">
+<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part 3/2.%20UIKit/SimpleWeatherResult.gif" height="400">
 
 <br>
 
@@ -28,15 +28,15 @@
 
 <h3><a href="https://github.com/JinUng41/IosStudy/issues/11">StockRank</a></h3>
 
-<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part3/3.%20List%20and%20Grid/StockRankResult.gif" height="400">
+<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part 3/3.%20List%20and%20Grid/StockRankResult.gif" height="400">
 
 <h3><a href="https://github.com/JinUng41/IosStudy/issues/12">ChatList</a></h3>
 
-<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part3/3.%20List%20and%20Grid/ChatListResult.gif" height="400">
+<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part 3/3.%20List%20and%20Grid/ChatListResult.gif" height="400">
 
 <h3><a href="https://github.com/JinUng41/IosStudy/issues/13">AppleFramework Grid</a></h3>
 
-<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part3/3.%20List%20and%20Grid/AppleFrameworkResult.gif" height="400">
+<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part 3/3.%20List%20and%20Grid/AppleFrameworkResult.gif" height="400">
 
 <br>
 
@@ -44,7 +44,7 @@
 
 <h3><a href="https://github.com/JinUng41/IosStudy/issues/15">InstaSearchView</a></h3>
 
-<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part3/4.%20Tab%20Bar/InstaSearchViewResult.gif" height="400">
+<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part 3/4.%20Tab%20Bar/InstaSearchViewResult.gif" height="400">
 
 <br>
 
@@ -52,7 +52,7 @@
 
 <h3><a href="https://github.com/JinUng41/IosStudy/issues/16">NRCOnboarding</a></h3>
 
-<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part3/5.%20Paging/NRCOnboardingResult.gif" height="400">
+<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part 3/5.%20Paging/NRCOnboardingResult.gif" height="400">
 
 <br>
 
@@ -62,11 +62,11 @@
 
 <h3><a href="https://github.com/JinUng41/IosStudy/issues/19">HeadSpaceFocus</a></h3>
 
-<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part3/6.%20CollectionView%20DiffableDataSource/HeadSpaceFocusResult.gif" height= "400">
+<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part 3/6.%20CollectionView%20DiffableDataSource/HeadSpaceFocusResult.gif" height= "400">
 
 <h3><a href="https://github.com/JinUng41/IosStudy/issues/20">SpotifyPaywall</a></h3>
 
-<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part3/6.%20CollectionView%20DiffableDataSource/SpotifyPaywall.gif" height="400">
+<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part 3/6.%20CollectionView%20DiffableDataSource/SpotifyPaywall.gif" height="400">
 
 <br>
 
@@ -74,11 +74,11 @@
 
 <h3><a href="https://github.com/JinUng41/IosStudy/issues/22">AppleFramework_Modal</a></h3>
 
-<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part3/7.%20Navigation%20and%20Modal/AppleFramework(modal)Result.gif" height="400">
+<img src="https://github.com/JinUng41/IosStudy_Project/blob/master/Part 3/7.%20Navigation%20and%20Modal/AppleFramework(modal)Result.gif" height="400">
 
 <h3><a href="https://github.com/JinUng41/IosStudy/issues/23">HeadSpaceFocus_NAV</a></h3>
 
-<img src = "https://github.com/JinUng41/IosStudy_Project/blob/master/Part3/7.%20Navigation%20and%20Modal/HeadSpaceFocus(Nav)Result.gif" height = "400">
+<img src = "https://github.com/JinUng41/IosStudy_Project/blob/master/Part 3/7.%20Navigation%20and%20Modal/HeadSpaceFocus(Nav)Result.gif" height = "400">
 
 <hr>
 
